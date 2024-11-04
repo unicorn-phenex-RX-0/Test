@@ -1,5 +1,7 @@
 @charset "UTF-8";
 
 body{
-  text-align: cenetr;
+   width: 100%;
+    max-width: 1280px;
+    margin: auto;
 }
