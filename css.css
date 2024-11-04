@@ -6,3 +6,8 @@ body{
     margin-right: auto;
     margin-left: auto;
 }
+
+button{
+   width: 10em;
+   height: 3em;
+}
